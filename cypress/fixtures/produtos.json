@@ -1,0 +1,20 @@
+[
+    {
+        "nomeProduto": "Ajax Full-Zip Sweatshirt",
+        "tamanho": "M",
+        "cor": "Green",
+        "quantidade": 8
+    },
+    {
+        "nomeProduto": "Autumn Pullie",
+        "tamanho": "XS",
+        "cor": "Purple",
+        "quantidade": 2
+    },
+    {
+        "nomeProduto": "Circe Hooded Ice Fleece",
+        "tamanho": "S",
+        "cor": "Gray",
+        "quantidade": 1
+    }
+]
